@@ -15,3 +15,6 @@ Did the leetcode daily and 7 neetcode mediums on backtracking.
 
 # 2026/08/30 - Sunday
 Did the leetcode daily and 6 neetcode mediums on backtracking. Also, read and solved some problems for ms5612. Washed hair.
+
+# 2026/08/31 - Monday
+Did the leetcode daily and 7 neetcode mediums on graphs. Also, learned about the black scholes as a limiting case of the binomial options pricing model. Talked at home. 
