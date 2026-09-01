@@ -18,3 +18,6 @@ Did the leetcode daily and 6 neetcode mediums on backtracking. Also, read and so
 
 # 2026/08/31 - Monday
 Did the leetcode daily and 7 neetcode mediums on graphs. Also, learned about the black scholes as a limiting case of the binomial options pricing model. Talked at home. 
+
+# 2026/09/01 - Tuesday
+Did the leetcode daily and 7 neetcode mediums on graphs. Also, learned some bits about micrograd implementation from Boaz Barak's blog post. Attended r's phd defense, and spent some time talking with her.
