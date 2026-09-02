@@ -21,3 +21,6 @@ Did the leetcode daily and 7 neetcode mediums on graphs. Also, learned about the
 
 # 2026/09/01 - Tuesday
 Did the leetcode daily and 7 neetcode mediums on graphs. Also, learned some bits about micrograd implementation from Boaz Barak's blog post. Attended r's phd defense, and spent some time talking with her.
+
+# 2026/09/02 - Wednesday
+Did the leetcode daily and 7 neetcode mediums on graphs. Discussed ms5610 assignment with V and A. 
