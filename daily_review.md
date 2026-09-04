@@ -27,3 +27,6 @@ Did the leetcode daily and 7 neetcode mediums on graphs. Discussed ms5610 assign
 
 # 2026/09/03 - Thursday
 Did the leetcode daily and 7 neetcode mediums on dp. Talked at home. Washed hair.
+
+# 2026/09/04 - Friday
+Did the leetcode daily and no neetcodes. Talked with R for a good time. Gotta do so much tomorrow.
