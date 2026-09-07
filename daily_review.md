@@ -33,3 +33,6 @@ Did the leetcode daily and no neetcodes. Talked with R for a good time. Gotta do
 
 # 2026/09/05 - Saturday
 Did the leetcode daily and 7 neetcode mediums on dp. Talked at home. Was a pretty bad day overall, but somehow managed to do the dsa questions.
+
+# 2026/09/06 - Sunday
+Did the leetcode daily and 7 neetcode mediums on dp. Talked at home. Was a bad day overall.
