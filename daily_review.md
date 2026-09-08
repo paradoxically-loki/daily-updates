@@ -39,3 +39,6 @@ Did the leetcode daily and 7 neetcode mediums on dp. Talked at home. Was a bad d
 
 # 2026/09/07 - Monday
 Did the leetcode daily and 4 neetcode mediums on dp. Talked at home. Washed hair. Also spent most of the time at ms5612 project. decent day overall.
+
+# 2026/09/08 - Tuesday
+Did the leetcode daily and 6 neetcode mediums on greedy algo. Talked at home. Worked on ms5612 presentation.
