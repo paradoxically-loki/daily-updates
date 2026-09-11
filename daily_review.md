@@ -48,3 +48,6 @@ Did the leetcode daily and no neetcodes. Didn't talk at home. Just did the ms561
 
 # 2026/09/10 - Thursday
 Did the leetcode daily and 6 neetcode mediums on greedy. Talked at home. Did ms5610 work and presentation. Below average day.
+
+# 2026/09/11 - Friday
+Did the leetcode daily and 4 neetcode mediums on greedy. Very bad day.
