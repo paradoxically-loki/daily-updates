@@ -51,3 +51,6 @@ Did the leetcode daily and 6 neetcode mediums on greedy. Talked at home. Did ms5
 
 # 2026/09/11 - Friday
 Did the leetcode daily and 4 neetcode mediums on greedy. Very bad day.
+
+# 2026/09/12 - Saturday
+A very bad day. I hated it, all.
