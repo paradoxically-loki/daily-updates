@@ -54,3 +54,6 @@ Did the leetcode daily and 4 neetcode mediums on greedy. Very bad day.
 
 # 2026/09/12 - Saturday
 A very bad day. I hated it, all.
+
+# 2026/09/12 - Sunday
+Again a bad day, imma kill myself. Met AA.
