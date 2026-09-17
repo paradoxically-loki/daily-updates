@@ -62,4 +62,7 @@ Again a bad day, imma kill myself. Met AA.
 Did the leetcode daily and 5 neetcode mediums on bit man. Washed hair. Decent day.
 
 # 2026/09/15 - Tuesday
-Did the leetcode daily and no needcode. Talked at home. Slightly bad day.
+Did the leetcode daily and no neetcode. Talked at home. Slightly bad day.
+
+# 2026/09/16 - Wednesday
+Did the leetcode daily and again, no neetcode. Pretty bad day. Slept for 12 hours at night, and I'm reviewing it the next day.
