@@ -66,3 +66,6 @@ Did the leetcode daily and no neetcode. Talked at home. Slightly bad day.
 
 # 2026/09/16 - Wednesday
 Did the leetcode daily and again, no neetcode. Pretty bad day. Slept for 12 hours at night, and I'm reviewing it the next day.
+
+# 2026/09/17 - Thursday
+Did the leetcode daily and again, no neetcode. Talked with AKR. Bad day, except for the chat.
