@@ -72,3 +72,6 @@ Did the leetcode daily and again, no neetcode. Talked with AKR. Bad day, except 
 
 # 2026/09/18 - Friday
 Did the leetcode daily and 10 neetcode problems from the blind75. Felt good about it. Washed hair. Talked at home. Feels like I need something deepdown which I'm not getting from anyone and which, very likely, no one can provide and I guess, I'm not even expecting/trying to get it. I'm not even sure what is it that I lack. There is just a hole which is grabbing my attention and that's it. 
+
+# 2026/09/19 - Saturday
+Did the leetcode daily and around 8 neetcode problems from blind75. It was a slow day. I think I should work on not sleeping during the day time. It doesn't hurt me, it likely gives me some fresh energy to work on later at night, but I rarely utilise that. Also deep cleaned the room, and washed hair again.
