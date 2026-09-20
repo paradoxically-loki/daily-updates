@@ -75,3 +75,6 @@ Did the leetcode daily and 10 neetcode problems from the blind75. Felt good abou
 
 # 2026/09/19 - Saturday
 Did the leetcode daily and around 8 neetcode problems from blind75. It was a slow day. I think I should work on not sleeping during the day time. It doesn't hurt me, it likely gives me some fresh energy to work on later at night, but I rarely utilise that. Also deep cleaned the room, and washed hair again.
+
+# 2026/09/20 - Sunday
+Did the leetcode daily and 10 neetcode problems from blind75. It was a decent day. I've been consistently wasting the first half of my day. Let's see if that improves in the coming days. I'd ideally want to read the hidden phenomena blog posts. 
