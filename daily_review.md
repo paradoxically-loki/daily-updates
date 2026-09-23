@@ -83,4 +83,7 @@ Did the leetcode daily and 10 neetcode problems from blind75. It was a decent da
 Did the leetcode daily and 7 neetcode problems and around 10 quant puzzles. Decent day. Washed hair with shampoo. 
 
 # 2026/09/22 - Tuesday
-Did the leetcode daily and no needcode. Had an exam today and the entire day revolved around that. Gotta get my acts together from tomorrow. 
+Did the leetcode daily and no neetcode. Had an exam today and the entire day revolved around that. Gotta get my acts together from tomorrow. 
+
+# 2026/09/23 - Wednesday
+Did the leetcode daily and no neetcode. Slept for around 5 hours in the day and then wasted the rest. Tomorrow must be better than this.
