@@ -90,3 +90,6 @@ Did the leetcode daily and no neetcode. Slept for around 5 hours in the day and 
 
 # 2026/09/24 - Thursday
 Did the leetcode daily and no neetcode. Bad day.
+
+# 2026/09/25 - Friday
+Did the leetcode daily and 5 neetcodes. Decent.
