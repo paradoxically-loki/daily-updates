@@ -87,3 +87,6 @@ Did the leetcode daily and no neetcode. Had an exam today and the entire day rev
 
 # 2026/09/23 - Wednesday
 Did the leetcode daily and no neetcode. Slept for around 5 hours in the day and then wasted the rest. Tomorrow must be better than this.
+
+# 2026/09/24 - Thursday
+Did the leetcode daily and no neetcode. Bad day.
