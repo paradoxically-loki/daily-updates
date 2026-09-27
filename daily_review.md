@@ -93,3 +93,6 @@ Did the leetcode daily and no neetcode. Bad day.
 
 # 2026/09/25 - Friday
 Did the leetcode daily and 5 neetcodes. Decent.
+
+# 2026/09/26 - Saturday
+Did the leetcode daily and 7 neetcodes on graph. Alright.
