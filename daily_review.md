@@ -102,3 +102,6 @@ Did the leetcode daily and 5 neetcode on dp.
 
 # 2026/09/28 - Monday
 Did the leetcode daily and no neetcode. 
+
+# 2026/09/29 - Tuesday
+Did the leetcode daily and 7 neetcode on dp.
