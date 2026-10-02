@@ -108,3 +108,6 @@ Did the leetcode daily and 7 neetcode on dp.
 
 # 2026/09/30 - Wednesday
 Did the leetcode daily and watched a 3 hours lecture on sql.
+
+# 2026/10/01 - Thursday
+Did the leetcode daily and 6 sql problems.
