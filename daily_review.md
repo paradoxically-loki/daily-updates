@@ -111,3 +111,6 @@ Did the leetcode daily and watched a 3 hours lecture on sql.
 
 # 2026/10/01 - Thursday
 Did the leetcode daily and 6 sql problems.
+
+# 2026/10/02 - Friday
+Did the leetcode daily and nothing else.
