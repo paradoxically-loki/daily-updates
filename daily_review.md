@@ -114,3 +114,9 @@ Did the leetcode daily and 6 sql problems.
 
 # 2026/10/02 - Friday
 Did the leetcode daily and nothing else.
+
+# 2026/10/03 - Saturday
+Did the leetcode daily.
+
+# 2026/10/04 - Sunday
+Did the leetcode daily.
