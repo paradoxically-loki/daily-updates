@@ -120,3 +120,6 @@ Did the leetcode daily.
 
 # 2026/10/04 - Sunday
 Did the leetcode daily.
+
+# 2026/10/05 - Monday
+Did the leetcode daily.
