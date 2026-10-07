@@ -126,3 +126,6 @@ Did the leetcode daily.
 
 # 2026/10/06 - Tuesday
 Did the leetcode daily and 9 sql from sql50.
+
+# 2026/10/07 - Wednesday
+Did the leetcode daily.
