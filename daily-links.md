@@ -1,8 +1,8 @@
 # 07th October 2026
 1. Scott Alexander's Open Letter to Steven Pinker: https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on
-SA finally replied to SP's replies to SA's tweet reply to SP's tweet amplifying nonsense about AI safety. Such a good read. 
+    - SA finally replied to SP's replies to SA's tweet reply to SP's tweet amplifying nonsense about AI safety. Such a good read. 
 2. The essay that started the AI race: https://kevinroose.substack.com/p/the-essay-that-started-the-ai-race
-This is obviously by Dario Amodei. He reasoned the blob of compute hypothesis.
+    - This is obviously by Dario Amodei. He reasoned the blob of compute hypothesis.
 
 
 # 08th October 2026
