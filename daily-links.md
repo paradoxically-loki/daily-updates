@@ -30,3 +30,6 @@
     - if there is a inner layer that you're hiding from someone, they shouldn't be surprised if they ever see the inside.
     - you should also not milead them into speculating untrue things about yourself.
 3. Distillation for incrimination and distillation for capabilities. https://arxiv.org/pdf/2610.11012
+4. A non compassionate guide to model welfare. https://www.lesswrong.com/posts/GegMuKsZZrjGAPLQi/the-non-compassionate-case-for-model-welfare
+5. How they became leading AI researchers in 1 year - Sholto & Trenton. https://www.youtube.com/watch?v=cPu3SecmgUU
+    - Spoiler: Sholto researched from 10 pm - 2 am every week day.
