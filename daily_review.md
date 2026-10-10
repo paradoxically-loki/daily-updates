@@ -135,3 +135,6 @@ Did the leetcode daily.
 
 # 2026/10/09 - Friday
 Did the leetcode daily and read the chapter on Linear Discriminant Analysis from Murphy's PML. 
+
+# 2026/10/10 - Saturday
+Did the leetcode daily. Pretty bad.
