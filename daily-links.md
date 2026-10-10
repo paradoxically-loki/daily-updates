@@ -22,3 +22,11 @@
 3. Ajeya Cotra on loosing unborn kids: https://acotra.substack.com/p/perfunctory-goodbyes
 4. Capital Punishment in India: https://en.wikipedia.org/wiki/Capital_punishment_in_India
 5. BB countering more nonsense from Steven Pinker on AI Safety: https://benthams.substack.com/p/contra-steven-pinker
+
+
+# 10th October 2026
+1. Sholto Douglas and buddy on a podcast on AI Benefits. They did a pretty good job at explaining Anthropic's worldview from an employee pov. https://www.youtube.com/watch?v=6D1wC95htTM
+2. Onion test for personal and insitutional honesty. https://www.lesswrong.com/posts/nTGEeRSZrfPiJwkEc/the-onion-test-for-personal-and-institutional-honesty
+    - if there is a inner layer that you're hiding from someone, they shouldn't be surprised if they ever see the inside.
+    - you should also not milead them into speculating untrue things about yourself.
+3. Distillation for incrimination and distillation for capabilities. https://arxiv.org/pdf/2610.11012
