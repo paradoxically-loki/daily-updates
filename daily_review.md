@@ -138,3 +138,6 @@ Did the leetcode daily and read the chapter on Linear Discriminant Analysis from
 
 # 2026/10/10 - Saturday
 Did the leetcode daily. Pretty bad.
+
+# 2026/10/11 - Sunday
+Did the leetcode daily. 9 neetcodes on arrays & hashing, and 8 from sql50.
