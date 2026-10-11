@@ -33,3 +33,18 @@
 4. A non compassionate guide to model welfare. https://www.lesswrong.com/posts/GegMuKsZZrjGAPLQi/the-non-compassionate-case-for-model-welfare
 5. How they became leading AI researchers in 1 year - Sholto & Trenton. https://www.youtube.com/watch?v=cPu3SecmgUU
     - Spoiler: Sholto researched from 10 pm - 2 am every week day.
+
+
+# 11th October 2026
+1. AI DoomPop
+    1. LGTM (Looks good to me). https://www.youtube.com/watch?v=3TNpOD6bov8
+    2. Thus spoke compute. https://www.youtube.com/watch?v=r0tcKM1_IP4
+    3. I'm upping my p(doom). https://www.youtube.com/watch?v=8j-hR4fJywU
+    4. Nothing went foom. https://www.youtube.com/watch?v=EXoP18t1tFI
+    5. OMG! We've found other agents. https://www.youtube.com/watch?v=mkPVbufgtOw
+    6. Run it again. https://www.youtube.com/watch?v=NgRkyAIJx5s
+2. claudia.gallery. https://claudia.gallery/
+3. Narrow multimodal fine-tuning can induce emergent misalignment. https://arxiv.org/abs/2609.35291
+    1. The authors fine-tuned a vision model on insecure code screenshots, incorrect images, and the misalignment emerged.
+4. exfiltration through self-distillation. https://www.lesswrong.com/posts/TjZsZtezfEnJKvxQe/exfiltration-through-self-distillation
+    1. scary!
