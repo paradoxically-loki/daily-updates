@@ -48,3 +48,11 @@
     1. The authors fine-tuned a vision model on insecure code screenshots, incorrect images, and the misalignment emerged.
 4. exfiltration through self-distillation. https://www.lesswrong.com/posts/TjZsZtezfEnJKvxQe/exfiltration-through-self-distillation
     1. scary!
+
+
+# 12th October 2026
+1. Scott Aaronson's AI Alignment Theory Course at UTA. https://scottaaronson.blog/?p=10125
+    1. I would have loved to watch him lecture on yt. sad.
+2. User-manuals for humans. https://tennyson.org/pages/user-manual.html
+    1. Sweet and helpful idea.
+3. Paperclip Maximizer. LW wiki. https://www.lesswrong.com/w/paperclip-maximizer-1
