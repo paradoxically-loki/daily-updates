@@ -57,3 +57,8 @@
     1. Sweet and helpful idea.
 3. Paperclip Maximizer. LW wiki. https://www.lesswrong.com/w/paperclip-maximizer-1
 4. Orthogonality Thesis. LW wiki. https://www.lesswrong.com/w/orthogonality-thesis
+5. Manifolds for 5 years old. https://www.lesswrong.com/posts/SwR9hFLn2DLbZZfD9/manifolds-for-five-year-olds
+    1. Featuriser - An program that maps activations in LLMs to features.
+    2. SAEs - An autoencoder that maps activations in LLMs to legible concepts.
+    3. Manifold - A high dimensional spacial representation of groups of concepts.
+6. Bertrand Paradox in probability. https://en.wikipedia.org/wiki/Bertrand_paradox_(probability)
