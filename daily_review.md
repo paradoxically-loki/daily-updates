@@ -141,3 +141,6 @@ Did the leetcode daily. Pretty bad.
 
 # 2026/10/11 - Sunday
 Did the leetcode daily. 9 neetcodes on arrays & hashing, and 8 from sql50.
+
+# 2026/10/12 - Monday
+Did the leetcode daily. 11 neetcodes on two pointers & sliding window, and 7 from sql50.
