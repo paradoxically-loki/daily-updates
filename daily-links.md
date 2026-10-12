@@ -56,3 +56,4 @@
 2. User-manuals for humans. https://tennyson.org/pages/user-manual.html
     1. Sweet and helpful idea.
 3. Paperclip Maximizer. LW wiki. https://www.lesswrong.com/w/paperclip-maximizer-1
+4. Orthogonality Thesis. LW wiki. https://www.lesswrong.com/w/orthogonality-thesis
