@@ -144,3 +144,6 @@ Did the leetcode daily. 9 neetcodes on arrays & hashing, and 8 from sql50.
 
 # 2026/10/12 - Monday
 Did the leetcode daily. 11 neetcodes on two pointers & sliding window, and 7 from sql50.
+
+# 2026/10/13 - Tuesday
+Did the leetcode daily. 13 neetcode on stacks and binary search, and 7 from sql50. Also had a test with 3 dsa qs.

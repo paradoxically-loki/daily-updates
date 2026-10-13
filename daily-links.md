@@ -63,3 +63,7 @@
     3. Manifold - A high dimensional spacial representation of groups of concepts.
 6. Bertrand Paradox in probability. https://en.wikipedia.org/wiki/Bertrand_paradox_(probability)
 7. Goldbach's Conjecture. https://www.youtube.com/watch?v=6Lo-Ph4aVQQ
+
+
+# 13th October 2026
+Couldn't read anything. 
