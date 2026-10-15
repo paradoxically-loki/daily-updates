@@ -67,3 +67,7 @@
 
 # 13th October 2026
 Couldn't read anything. 
+
+
+# 14th October 2026
+let's go with nothing.
