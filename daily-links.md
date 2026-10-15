@@ -71,3 +71,11 @@ Couldn't read anything.
 
 # 14th October 2026
 let's go with nothing.
+
+
+# 25th October 2026
+1. SA on the lie that AI extinction messaging is corporate hype. https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot
+2. Bad AI consciousness takes bingo. https://substack.com/home/post/p-219765547
+3. Zvi on arguments about ai consciousness being highly motivated. https://www.lesswrong.com/posts/4zHu6AiTHrkBdpxsm/arguments-about-ai-consciousness-remain-highly-motivated-and
+4. Daniel Frank's 50 ideas for life. https://danfrank.ca/daniel-isms-50-ideas-for-life-i-repeatedly-share/
+    - good pieces, but good advices are also mostly generic.
