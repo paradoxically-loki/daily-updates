@@ -147,3 +147,6 @@ Did the leetcode daily. 11 neetcodes on two pointers & sliding window, and 7 fro
 
 # 2026/10/13 - Tuesday
 Did the leetcode daily. 13 neetcode on stacks and binary search, and 7 from sql50. Also had a test with 3 dsa qs.
+
+# 2026/10/14 - Wednesday
+Did the leetcode daily. 11 neetcode on linked lists, and 7 from sql50. Also had a test on aptitude and mental maths. Spent most of the night and the early morning next day setting on system for tests. Essentially, i had to backup, remove ubuntu, install windows on a partition, and then ubuntu on the rest. this takes so much time. 
