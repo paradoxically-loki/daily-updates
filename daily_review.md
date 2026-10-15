@@ -150,3 +150,6 @@ Did the leetcode daily. 13 neetcode on stacks and binary search, and 7 from sql5
 
 # 2026/10/14 - Wednesday
 Did the leetcode daily. 11 neetcode on linked lists, and 7 from sql50. Also had a test on aptitude and mental maths. Spent most of the night and the early morning next day setting on system for tests. Essentially, i had to backup, remove ubuntu, install windows on a partition, and then ubuntu on the rest. this takes so much time. 
+
+# 2026/10/15 - Thursday
+Did the leetcode daily. Mostly a leisure day, much needed. 
