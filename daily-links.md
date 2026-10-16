@@ -73,9 +73,15 @@ Couldn't read anything.
 let's go with nothing.
 
 
-# 25th October 2026
+# 15th October 2026
 1. SA on the lie that AI extinction messaging is corporate hype. https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot
 2. Bad AI consciousness takes bingo. https://substack.com/home/post/p-219765547
 3. Zvi on arguments about ai consciousness being highly motivated. https://www.lesswrong.com/posts/4zHu6AiTHrkBdpxsm/arguments-about-ai-consciousness-remain-highly-motivated-and
 4. Daniel Frank's 50 ideas for life. https://danfrank.ca/daniel-isms-50-ideas-for-life-i-repeatedly-share/
     - good pieces, but good advices are also mostly generic.
+
+
+# 16th October 2026
+1. Alex Berger responding to Tyler Cowen's defense of EA. https://x.com/albrgr/status/2107634118083363174
+2. Zvi's Monthly Roundup. https://www.lesswrong.com/posts/aLjkbY3KMajc5zemE/monthly-roundup-47-october-2026
+3. Tyler and Dwarkesh on Interesting Times. https://m.youtube.com/watch?v=b-jsSfh0a9M

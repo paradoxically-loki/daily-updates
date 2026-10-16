@@ -153,3 +153,6 @@ Did the leetcode daily. 11 neetcode on linked lists, and 7 from sql50. Also had 
 
 # 2026/10/15 - Thursday
 Did the leetcode daily. Mostly a leisure day, much needed. 
+
+# 2026/10/16 - Friday
+Did the leetcode daily. 
