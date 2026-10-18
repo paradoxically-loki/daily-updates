@@ -85,3 +85,8 @@ let's go with nothing.
 1. Alex Berger responding to Tyler Cowen's defense of EA. https://x.com/albrgr/status/2107634118083363174
 2. Zvi's Monthly Roundup. https://www.lesswrong.com/posts/aLjkbY3KMajc5zemE/monthly-roundup-47-october-2026
 3. Tyler and Dwarkesh on Interesting Times. https://m.youtube.com/watch?v=b-jsSfh0a9M
+
+
+# 17th Octoer 2026
+1. JW's study guide for alignment research. https://www.lesswrong.com/posts/bjjbp5i5G8bekJuxv/study-guide
+2. Probability space has two metrics. https://www.lesswrong.com/posts/63TcB9j7gv8Ampz8u/probability-space-has-2-metrics
