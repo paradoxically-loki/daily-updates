@@ -159,3 +159,6 @@ Did the leetcode daily.
 
 # 2026/10/17 - Saturday
 Forgot to do the leetcode daily. 53 days streak gone. Very sad. Only did 5 neetcodes on trees and 2 dsa in a test.
+
+# 2026/10/18 - Sunday
+Nothing. Sad.

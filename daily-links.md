@@ -90,3 +90,7 @@ let's go with nothing.
 # 17th Octoer 2026
 1. JW's study guide for alignment research. https://www.lesswrong.com/posts/bjjbp5i5G8bekJuxv/study-guide
 2. Probability space has two metrics. https://www.lesswrong.com/posts/63TcB9j7gv8Ampz8u/probability-space-has-2-metrics
+
+
+# 18th October 2026
+Nothing to add.
