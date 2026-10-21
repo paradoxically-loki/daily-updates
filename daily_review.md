@@ -168,3 +168,6 @@ Did the leetcode daily, and 11 neetcodes on trees. Decent day.
 
 # 2026/10/20 - Tuesday
 Did the leetcode daily, 10 neetcodes on backtracking, and watched 3 videos on pytorch.
+
+# 2026/10/21 - Wednesday
+Did the leetcode daily, 7 neetcodes on heaps, and 2 qs in microsoft test.

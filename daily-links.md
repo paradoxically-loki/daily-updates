@@ -103,3 +103,7 @@ Nothing.
 # 20th Ocotber 2026
 1. Instrumental Convergency on LW wiki. https://www.lesswrong.com/w/instrumental-convergence
 2. Vingean Uncertainty on LW wiki. https://www.lesswrong.com/w/vingean-uncertainty
+
+
+# 21st October 2026
+Nothing.
