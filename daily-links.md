@@ -107,3 +107,13 @@ Nothing.
 
 # 21st October 2026
 Nothing.
+
+
+# 22nd October 2026
+1. Anthropic's Public Benefit Fund. https://x.com/AnthropicAI/status/2111881963657412903
+2. Sudhanshu Kasewa's quick takes on EAF. https://forum.effectivealtruism.org/posts/E3hYZuL8tN6arasZ8/sudhanshu-kasewa-s-quick-takes#hHu4rAK3spEj6pu5h
+3. Notes on paying attention. https://www.lesswrong.com/posts/nzNuDimMtF954xihw/notes-on-paying-attention
+4. How does Fable 5.1 hide message in images? Impressive. https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images
+5. SA in handing over governance to fully aligned AIs. I'm in agreement. https://www.astralcodexten.com/p/against-against-handover
+6. Least Squares as an attention mechanism. https://arxiv.org/abs/2504.09663
+7. AI discovered PHP flaw forces websites to be shut down. https://x.com/NSACyber/status/2112903220209098897

@@ -171,3 +171,6 @@ Did the leetcode daily, 10 neetcodes on backtracking, and watched 3 videos on py
 
 # 2026/10/21 - Wednesday
 Did the leetcode daily, 7 neetcodes on heaps, and 2 qs in microsoft test.
+
+# 2026/10/22 - Thursday
+leetcode daily and 3 neetcodes on graphs.
