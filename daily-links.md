@@ -117,3 +117,7 @@ Nothing.
 5. SA in handing over governance to fully aligned AIs. I'm in agreement. https://www.astralcodexten.com/p/against-against-handover
 6. Least Squares as an attention mechanism. https://arxiv.org/abs/2504.09663
 7. AI discovered PHP flaw forces websites to be shut down. https://x.com/NSACyber/status/2112903220209098897
+
+
+# 23rd October 2026
+will update tomorrow

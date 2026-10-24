@@ -174,3 +174,6 @@ Did the leetcode daily, 7 neetcodes on heaps, and 2 qs in microsoft test.
 
 # 2026/10/22 - Thursday
 leetcode daily and 3 neetcodes on graphs.
+
+# 2026/10/23 - Friday
+leetcode daily and 1 neetcode on graphs.
