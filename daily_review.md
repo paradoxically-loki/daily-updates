@@ -177,3 +177,6 @@ leetcode daily and 3 neetcodes on graphs.
 
 # 2026/10/23 - Friday
 leetcode daily and 1 neetcode on graphs.
+
+# 2026/10/24 - Saturday
+leetcode daily, and fin mech test.
