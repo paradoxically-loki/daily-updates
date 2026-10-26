@@ -180,3 +180,6 @@ leetcode daily and 1 neetcode on graphs.
 
 # 2026/10/24 - Saturday
 leetcode daily, and fin mech test.
+
+# 2026/10/25 - Sunday
+leetcode daily, and read portfolio theory.
