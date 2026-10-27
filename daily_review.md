@@ -183,3 +183,6 @@ leetcode daily, and fin mech test.
 
 # 2026/10/25 - Sunday
 leetcode daily, and read portfolio theory.
+
+# 2026/10/26 - Monday
+leetcode daily
