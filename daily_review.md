@@ -186,3 +186,6 @@ leetcode daily, and read portfolio theory.
 
 # 2026/10/26 - Monday
 leetcode daily
+
+# 2026/10/26 - Tuesday
+nothing

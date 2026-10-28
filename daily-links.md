@@ -133,3 +133,8 @@ nothing
 
 # 26th October 2026
 nothing.
+
+
+# 27th October 2026
+1. Dario responds to Nathan Calvin on Twitter with an essay lenght tweet. https://x.com/DarioAmodei/status/2112732230124818891
+2. Zvi on Anthropic. https://www.lesswrong.com/posts/ZSrX8gucWsKahsitk/anthropic-versus-anthropic
