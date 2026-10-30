@@ -192,3 +192,6 @@ nothing
 
 # 2026/10/28 - Wednesday
 leetcode daily and some test questions
+
+# 2026/10/29 - Thursday
+leetcode daily
