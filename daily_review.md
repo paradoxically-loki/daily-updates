@@ -195,3 +195,6 @@ leetcode daily and some test questions
 
 # 2026/10/29 - Thursday
 leetcode daily
+
+# 2026/10/31 - Friday
+leetcode daily, and a lot of probability questions and techniques

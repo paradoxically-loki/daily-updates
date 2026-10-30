@@ -148,3 +148,7 @@ nothing
 1. Nice content. https://waggertron.github.io/tech-learning/
 2. We won't just hangout post singularity. https://borretti.me/article/we-wont-just-hang-out
 3. Zvi's AI#192. https://www.lesswrong.com/posts/mBDkupZa3NagfLW86/ai-192-anthropic-is-going-public
+
+
+# 30th October 2026
+nothing
