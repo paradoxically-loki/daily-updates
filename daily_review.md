@@ -201,3 +201,6 @@ leetcode daily, and a lot of probability questions and techniques
 
 # 2026/10/31 - Saturday
 leetcode daily, and 3 tests.
+
+# 2026/11/01 - Sunday
+leetcode daily, and a lot of aptitude
