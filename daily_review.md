@@ -204,3 +204,6 @@ leetcode daily, and 3 tests.
 
 # 2026/11/01 - Sunday
 leetcode daily, and a lot of aptitude
+
+# 2026/11/02 - Monday
+leetcode daily, and mastercard assessment.
