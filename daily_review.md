@@ -207,3 +207,6 @@ leetcode daily, and a lot of aptitude
 
 # 2026/11/02 - Monday
 leetcode daily, and mastercard assessment.
+
+# 2026/11/03 - Tuesday
+leetcode daily, some dsa qs on graphs, and capitalone assessment.
