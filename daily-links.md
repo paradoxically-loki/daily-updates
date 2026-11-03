@@ -164,3 +164,12 @@ nothing
 
 # 02nd November 2026
 nope
+
+
+# 03rd November 2026
+1. Scott Alexander's Against SURA. https://www.lesswrong.com/posts/xikGZ8fuhdG6DApAo/against-sura
+    - I basically agree with every single point.
+2. Zvi's response to the above. https://www.lesswrong.com/posts/ziMP83D2JYWRQ5jtu/scott-alexander-s-against-sura-seems-deeply-confused
+    - Zvi's response to Scott Alexander's Against SURA seems deeply confused.
+3. Geoffery Irving's response to Against SURA. https://www.lesswrong.com/posts/enzpS72uDmomiWN7a/against-strawmanning-unilateral-pauses
+    - The comments interaction with SA is fun. 
