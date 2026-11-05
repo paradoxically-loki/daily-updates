@@ -173,3 +173,11 @@ nope
     - Zvi's response to Scott Alexander's Against SURA seems deeply confused.
 3. Geoffery Irving's response to Against SURA. https://www.lesswrong.com/posts/enzpS72uDmomiWN7a/against-strawmanning-unilateral-pauses
     - The comments interaction with SA is fun. 
+
+
+# 04th November 2026
+nothing
+
+
+# 05th November 2026
+nope

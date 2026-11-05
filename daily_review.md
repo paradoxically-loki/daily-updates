@@ -210,3 +210,9 @@ leetcode daily, and mastercard assessment.
 
 # 2026/11/03 - Tuesday
 leetcode daily, some dsa qs on graphs, and capitalone assessment.
+
+# 2026/11/04 - Wednesday
+leetcode daily, and inmobi assessment
+
+# 2026/11/05 - Thursday
+leetcode daily, and 7 qs on trees, and 7 on graphs
