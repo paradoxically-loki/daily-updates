@@ -216,3 +216,6 @@ leetcode daily, and inmobi assessment
 
 # 2026/11/05 - Thursday
 leetcode daily, and 7 qs on trees, and 7 on graphs
+
+# 2026/11/06 - Friday
+4 qs on graphs, no leetcode
